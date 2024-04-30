@@ -1,4 +1,11 @@
+ban_add_poll_results:
+  no_maximum_count: 2
+  yes_minimum_count: 3
 banned_phrases:
   - Ищу людей
   - Ищу партнёров
   - доп.доход
+  - чистая прибыль
+footer:
+  print: true
+  text: For the bot source code, please visit <a href='https://github.com/doatta/simple-tgbot/'>url</a>

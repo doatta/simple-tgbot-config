@@ -6,8 +6,6 @@ banned_phrases:
   - Ищу партнёров
   - доп.доход
   - чистая прибыль
-  - '@RubinAgat12'
-  - '@MarlenBugel'
 footer:
   print: true
   text: For the bot source code, please visit <a href='https://github.com/doatta/simple-tgbot/'>url</a>
